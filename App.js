@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Text } from 'react-native';
-import CameraScreen from './CameraScreen';
+import CameraScreen from './components/camerascreen';
 
 const App = () => {
   return (
